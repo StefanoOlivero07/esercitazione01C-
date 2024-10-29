@@ -1,0 +1,1 @@
+# Esercitazione C# ottobre 2024
